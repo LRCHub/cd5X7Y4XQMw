@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "オリジナリティ",
+  "base_artist": "松浦航大",
+  "createdAt": "2026-03-09T14:15:22.624890Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "オリジナリティ",
+      "artist": "松浦航大",
+      "has_synced": false,
+      "path": "select/pl_01_オリジナリティ_松浦航大.txt"
+    }
+  ]
+}
